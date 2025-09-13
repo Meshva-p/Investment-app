@@ -1,0 +1,10 @@
+pandas
+requests
+yfinance
+matplotlib
+xgboost
+scikit-learn
+openai
+tensorflow
+scikit-learn
+pandas
