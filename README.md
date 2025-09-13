@@ -1,0 +1,6 @@
+# LLMPowered_WebStockApp
+This project presents an AI-powered stock analysis application that combines deep learning techniques and large language models (LLMs) to deliver comprehensive financial insights. The system uses an LSTM (Long Short-Term Memory) model trained on historical stock data to forecast future prices for user-selected stocks, including major indices like NIFTY 50 and equities such as Reliance. This enables effective time-series-based price prediction tailored to the specific stock selected by the user in real-time.
+
+To enhance the system with contextual understanding, the application integrates the NewsData.io API to fetch the latest news articles related to the selected stock. Each article is processed and summarized using a large language model, which highlights key bullet points, identifies sentiment (positive, negative, or neutral), and estimates the possible impact of the news on stock performance.
+
+The application features an intuitive Streamlit interface, allowing users to interactively select stocks, view dynamic price predictions, and access concise, AI-generated summaries of current market events. By combining quantitative forecasting with qualitative news sentiment analysis, this tool empowers users to make more informed investment decisions based on both historical trends and real-time market context.
